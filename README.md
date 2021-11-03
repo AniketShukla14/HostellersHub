@@ -1,7 +1,7 @@
 # HostellersHub
-All-in-one website where students can
+All-in-one website where students can:-
 <li> Buy and sell their products to gain money</li>
-<li> They can upload their Task for getting help from their fellow mates</li>
+<li> They can upload their task for getting help from their fellow mates</li>
 <li> Can post about their open-source project.</li>
 <li> Pass outs can share their project ideas, their study materials and guide the juniors.</li>
 <br>
@@ -32,8 +32,8 @@ All-in-one website where students can
   </ol>
   
 ## Objective
-<li>The main objectve of the project was to make the student aware of earning by their own and creating a environment of sharing,helping,reusing the materials and also to increase interaction among students.</li>
-<li>A E-Commerce Website was presented in a different format.</li>
+<li>The main objectve of the project was to make the student aware of earning by their own and creating a environment of sharing, helping, reusing the materials and also to increase interaction among students.</li>
+<li>A e-Commerce Website was presented in a different format.</li>
 <p align="right">(<a href="#HostellersHub ">back to top</a>)</p>
 
 
